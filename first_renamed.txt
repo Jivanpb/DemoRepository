@@ -1,0 +1,16 @@
+this is my version 1 of my project 
+i want to go into commit 2 master 
+
+hey comrades lets begin 
+
+
+https://github.com/tensorflow/tensorflow.git  
+
+
+changed by jivan
+
+this is change now 
+
+friday evenig 15 video of git tutorial
+
+this is from master
